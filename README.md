@@ -5,7 +5,7 @@ Se utilizó un Backend alojado en Heroku, al cual se le mandaba información ace
 
 La extracción de la información por medio de SQL permite a la aplicación reconocer las mascotas de los usuarios y calcular la comida que se le debe proporcionar (datos enviados a AdafruitIO).
 
-#### Tecnologías y conocimientos empleados
+## Tecnologías y conocimientos empleados
 - Flutter
 - Heroku
 - Adafruit API
@@ -14,21 +14,21 @@ La extracción de la información por medio de SQL permite a la aplicación reco
 - Dispositivo IoT
 - SQL
 
-#### Capturas de pantalla importantes de la aplicación
+## Capturas de pantalla importantes de la aplicación
 
-Registro e inicio de sesión
+#### Registro e inicio de sesión
 
 <img src="./screenshots/login_and_sign_up.png" width="600">
 
-Side Bar
+#### Side Bar
 
 <img src="./screenshots/sidebar.png" width="250">
 
-Pantallas de ingreso de datos
+#### Pantallas de ingreso de datos
 
 <img src="./screenshots/data_screen_1.png" width="600">
 <img src="./screenshots/data_screen_2.png" width="600">
 
-Menú principal
+#### Menú principal
 
 <img src="./screenshots/mainscreen_complete.png" width="600">
