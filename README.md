@@ -22,7 +22,7 @@ Registro e inicio de sesión
 
 Side Bar
 
-<img src="./screenshots/sidebar.png" width="600">
+<img src="./screenshots/sidebar.png" width="250">
 
 Pantallas de ingreso de datos
 
